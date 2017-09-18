@@ -8,3 +8,4 @@
 #### [#6 如何在vim中存活下来！](https://github.com/Jimbo-chen/blong/issues/6)
 #### [#7 你对于HTML的掌握真有那么牢固吗？](https://github.com/Jimbo-chen/blong/issues/7)
 #### [#8 追根还需溯源 简述浏览器渲染机制](https://github.com/Jimbo-chen/blong/issues/8)
+#### [#9 谈一谈HTML中的name class 和id](https://github.com/Jimbo-chen/blong/issues/9)
