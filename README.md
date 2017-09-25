@@ -9,4 +9,4 @@
 #### [#7 你对于HTML的掌握真有那么牢固吗？](https://github.com/Jimbo-chen/blong/issues/7)
 #### [#8 追根还需溯源 简述浏览器渲染机制](https://github.com/Jimbo-chen/blong/issues/8)
 #### [#9 谈一谈HTML中的name class 和id](https://github.com/Jimbo-chen/blong/issues/9)
-#### [#9 谈一谈HTML中的绝对居中](https://github.com/Jimbo-chen/blong/issues/10)
+#### [#10 谈一谈HTML中的绝对居中](https://github.com/Jimbo-chen/blong/issues/10)
