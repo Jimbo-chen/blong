@@ -12,3 +12,4 @@
 #### [#10 谈一谈HTML中的绝对居中](https://github.com/Jimbo-chen/blong/issues/10)
 #### [#11 JavaScript中常用的string方法汇总](https://github.com/Jimbo-chen/blong/issues/11)
 #### [#12 JavaScript运算符中有哪些出人意料的用法](https://github.com/Jimbo-chen/blong/issues/12)
+#### [#13 如何用作用域链来解决JavaScript中复杂的面试题](https://github.com/Jimbo-chen/blong/issues/12)
