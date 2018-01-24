@@ -14,3 +14,4 @@
 #### [#12 JavaScript运算符中有哪些出人意料的用法](https://github.com/Jimbo-chen/blong/issues/12)
 #### [#13 如何用作用域链来解决JavaScript中复杂的面试题](https://github.com/Jimbo-chen/blong/issues/13)
 #### [#14 JavaScript中的“重载”是怎么回事](https://github.com/Jimbo-chen/blong/issues/14)
+#### [#15 JavaScript中有关Math\Array\Date常用函数总结](https://github.com/Jimbo-chen/blong/issues/15)
