@@ -18,3 +18,4 @@
 #### [#16 聊一聊JavaScript中的正则表达式](https://github.com/Jimbo-chen/blong/issues/16)
 #### [#17 关于JavaScript事件的基础知识点扫盲](https://github.com/Jimbo-chen/blong/issues/17)
 #### [#18 理解JavaScript中的事件代理](https://github.com/Jimbo-chen/blong/issues/18)
+#### [#19 聊一聊JavaScript中的跨域问题](https://github.com/Jimbo-chen/blong/issues/19)
