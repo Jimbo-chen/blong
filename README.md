@@ -1,4 +1,4 @@
-## Issues个人博客
+## Jimbo Chen个人博客
 ## 目录
 #### [#1 HTML中深藏功与名的`<meta>`](https://github.com/Jimbo-chen/blong/issues/1)
 #### [#2 Flex布局相关知识点](https://github.com/Jimbo-chen/blong/issues/2)
