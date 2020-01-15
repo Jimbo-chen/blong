@@ -21,3 +21,4 @@
 #### [#19 聊一聊JavaScript中的跨域问题](https://github.com/Jimbo-chen/blong/issues/19)
 #### [#20 一个Tab选项卡的血泪史](https://github.com/Jimbo-chen/blong/issues/20)
 #### [#21 我为什么只用div?](https://github.com/Jimbo-chen/blong/issues/21)
+#### [#22 vue2中的自定义指令的用法](https://github.com/Jimbo-chen/blong/issues/22)
