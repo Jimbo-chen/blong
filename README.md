@@ -23,5 +23,5 @@
 #### [#21 我为什么只用div?](https://github.com/Jimbo-chen/blong/issues/21)
 #### [#22 vue2中的自定义指令的用法](https://github.com/Jimbo-chen/blong/issues/22)
 #### [#23 微信小程序开发注意事项](https://github.com/Jimbo-chen/blong/issues/23)
-#### [#22 一级菜单和二级菜单之间有间隔该怎么展开收起](https://github.com/Jimbo-chen/blong/issues/24)
+#### [#24 一级菜单和二级菜单之间有间隔该怎么展开收起](https://github.com/Jimbo-chen/blong/issues/24)
 
